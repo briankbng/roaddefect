@@ -1,0 +1,1894 @@
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002830.jpg 0,418,123,497,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008077.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001594.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004900.jpg 51,448,201,594,2 248,390,407,403,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007200.jpg 201,581,447,644,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008643.jpg 491,449,633,618,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000648.jpg 3,458,204,584,0 351,457,514,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005352.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008806.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012517.jpg 493,543,600,595,3 421,369,446,384,3 219,525,478,584,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001774.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005616.jpg 282,279,432,598,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011155.jpg 172,368,368,593,2 430,339,536,388,2 483,442,506,475,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002784.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004636.jpg 430,486,457,539,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009146.jpg 200,409,260,584,2 35,559,204,593,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002029.jpg 364,468,551,530,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001680.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002658.jpg 54,392,188,441,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006127.jpg 340,413,370,475,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001035.jpg 341,418,405,437,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009078.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008031.jpg 271,367,321,379,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003269.jpg 140,438,324,467,1 107,468,323,495,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000844.jpg 247,472,385,501,1 93,443,231,472,1 235,426,366,446,1 244,449,375,469,1 349,441,417,528,0 188,407,229,464,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011046.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002921.jpg 260,432,299,571,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005318.jpg 407,109,590,454,0 160,122,256,256,2 72,253,135,367,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001032.jpg 523,328,600,357,1 366,365,392,374,1 375,391,414,406,1 447,219,592,245,1 570,171,600,182,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000544.jpg 162,448,536,716,2 160,407,241,445,3 264,394,361,435,3 390,385,433,429,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006177.jpg 467,502,519,537,3 432,472,502,491,3 268,445,320,480,3 33,561,146,678,3 355,514,554,602,3 571,486,720,620,3 136,491,302,608,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006910.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007819.jpg 171,346,197,400,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009755.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011588.jpg 19,386,553,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007954.jpg 50,551,304,701,3 458,500,580,686,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001524.jpg 290,419,318,455,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008911.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000508.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000441.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004174.jpg 290,345,394,364,1 173,449,535,483,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001279.jpg 132,601,352,686,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009363.jpg 335,430,377,455,3 465,470,507,499,3 513,510,595,583,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001679.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002690.jpg 221,362,251,383,3 23,384,390,600,2 176,276,294,296,1 68,357,190,379,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008810.jpg 99,381,257,593,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010210.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001841.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001895.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001544.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002739.jpg 290,459,305,512,0 1,432,107,460,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012196.jpg 227,458,293,595,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004378.jpg 332,390,599,597,2 13,362,260,586,2 526,527,598,599,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001391.jpg 276,431,324,522,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001252.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003215.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012609.jpg 4,382,590,600,2 429,464,585,491,1 485,551,600,571,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007147.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010659.jpg 441,395,595,495,2 231,290,408,446,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000720.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000681.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001979.jpg 285,418,318,517,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008217.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005482.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000912.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004723.jpg 366,356,595,565,2 1,324,327,595,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006723.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004022.jpg 128,486,600,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008624.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008153.jpg 163,491,712,697,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002101.jpg 227,579,649,686,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010017.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009207.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011134.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012722.jpg 125,383,600,598,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001836.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011714.jpg 316,371,391,421,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005171.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007824.jpg 378,551,447,592,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000487.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012947.jpg 348,323,459,345,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008707.jpg 1,477,407,643,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003968.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001944.jpg 322,429,542,531,2 341,467,363,536,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005690.jpg 162,368,350,515,2 5,355,72,413,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000484.jpg 67,424,177,517,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006178.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008828.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000976.jpg 372,476,720,656,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002797.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001594.jpg 400,354,504,609,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009696.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006553.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012221.jpg 459,514,511,555,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007673.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009331.jpg 200,609,304,718,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009275.jpg 171,442,336,476,1 283,485,358,501,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000032.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002946.jpg 75,540,678,700,2 116,470,484,545,2 437,561,470,599,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007497.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008491.jpg 185,90,228,125,2 26,192,148,297,0 366,285,470,445,0 303,87,401,297,2 5,328,172,394,1 258,281,366,306,1 238,214,351,239,1 178,159,310,189,1 388,122,483,145,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008799.jpg 1,422,239,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004448.jpg 54,287,272,491,2 76,496,304,522,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006795.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009630.jpg 95,571,337,682,2 416,432,463,465,3 496,494,701,625,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012290.jpg 394,212,583,305,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002246.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008586.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011597.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001027.jpg 388,494,465,586,0 450,585,481,660,0 324,485,678,676,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005165.jpg 288,425,444,600,0 1,519,198,600,0 79,368,216,462,0 454,406,596,502,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007544.jpg 150,273,333,600,2 367,421,600,453,1 257,326,437,350,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006535.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005463.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002593.jpg 82,402,252,600,2 302,427,535,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002223.jpg 277,344,345,419,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011861.jpg 362,436,478,600,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007364.jpg 478,364,568,426,3 661,730,1004,995,3 892,477,1019,626,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010898.jpg 234,417,285,552,0 6,419,119,490,0 1,508,57,551,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009412.jpg 5,350,478,596,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009623.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004280.jpg 108,547,335,597,2 349,430,600,596,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001016.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007201.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005082.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008989.jpg 381,346,491,510,2 264,399,426,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006425.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007475.jpg 41,137,512,420,2 402,195,600,223,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001496.jpg 347,492,428,511,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004135.jpg 227,547,696,698,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003370.jpg 191,535,633,720,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000202.jpg 1,440,151,519,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009648.jpg 316,519,504,585,2 218,565,312,585,1 215,388,316,531,0 2,387,27,427,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002130.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005840.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001475.jpg 193,423,285,438,1 128,415,199,495,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002445.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004758.jpg 469,438,509,518,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000295.jpg 438,440,675,636,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001808.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005371.jpg 67,426,230,600,2 229,423,427,490,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000790.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008585.jpg 324,569,720,712,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003314.jpg 140,418,226,503,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012915.jpg 543,519,592,556,3 307,413,403,424,1 298,497,429,542,1 204,438,265,585,0 14,412,139,545,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002310.jpg 150,392,254,588,0 90,365,238,382,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008469.jpg 359,431,432,544,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001437.jpg 180,435,213,524,0 357,473,411,542,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005719.jpg 272,432,597,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003485.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006725.jpg 259,349,478,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008525.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005267.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006281.jpg 117,515,642,684,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002871.jpg 1,594,432,720,3 333,528,483,589,3 285,463,503,528,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002472.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003586.jpg 127,466,527,705,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007198.jpg 143,524,398,557,1 514,532,593,551,1 386,513,461,526,1 246,458,309,474,1 248,426,328,445,1 463,482,510,497,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003463.jpg 369,141,598,516,2 259,226,414,261,1 227,361,319,385,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004881.jpg 1,350,185,594,2 253,313,318,399,0 286,402,418,520,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010655.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003809.jpg 21,432,131,452,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002182.jpg 370,463,600,561,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000676.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009374.jpg 161,63,185,124,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005644.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001411.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002555.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001827.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009445.jpg 58,466,138,494,1 488,229,598,347,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002934.jpg 242,310,268,362,0 532,416,598,451,1 6,538,282,590,1 532,416,598,451,0 185,454,600,541,1 407,373,599,394,1 91,352,371,385,1 5,360,97,380,1 379,370,483,464,0 4,384,120,530,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003350.jpg 98,495,389,565,2 116,415,150,437,3 372,454,530,478,1 338,405,490,430,1 332,381,448,395,1 184,413,321,428,1 226,361,325,378,1 324,334,401,346,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003796.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010019.jpg 12,414,600,599,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006122.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011829.jpg 262,349,326,574,0 277,563,376,578,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001962.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001305.jpg 70,638,134,716,0 448,602,479,713,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000315.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010222.jpg 303,497,332,522,3 444,422,522,455,3 583,551,600,568,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002125.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003873.jpg 403,362,500,475,0 502,498,599,596,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002454.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001369.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002005.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002667.jpg 1,575,292,675,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007267.jpg 160,476,558,644,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003142.jpg 164,431,199,501,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000378.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005026.jpg 24,395,596,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009141.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003965.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005651.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007220.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000260.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000415.jpg 332,312,600,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003435.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004133.jpg 32,431,103,452,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005640.jpg 30,77,284,421,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011401.jpg 332,452,537,491,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011384.jpg 430,509,468,538,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003383.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001297.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008280.jpg 301,480,327,499,3 386,513,418,531,3 234,424,381,522,2 506,457,600,528,2 150,417,167,463,0 23,500,156,537,2 151,382,167,407,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001885.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005698.jpg 1,511,473,697,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001026.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009314.jpg 182,312,323,353,1 272,341,532,368,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002063.jpg 409,425,443,442,3 162,445,227,500,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002130.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001855.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000578.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005054.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002342.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012072.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008272.jpg 59,361,569,593,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008188.jpg 104,409,239,533,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005630.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000696.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008662.jpg 287,364,598,534,2 268,348,427,424,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009962.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008692.jpg 177,106,589,151,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005983.jpg 176,545,477,667,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005661.jpg 55,543,157,599,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006291.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005055.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003127.jpg 205,389,251,501,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003234.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005750.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003271.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006616.jpg 235,546,360,595,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003174.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002763.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007992.jpg 375,341,578,438,3 140,340,230,402,3 1,388,1024,948,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001419.jpg 533,663,554,704,0 146,564,506,705,2 172,509,368,609,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004226.jpg 257,471,484,553,3 416,556,561,635,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007341.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002897.jpg 1,367,370,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004040.jpg 269,416,400,600,2 162,415,198,479,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005840.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000041.jpg 426,368,570,428,2 476,500,580,585,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008113.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009773.jpg 4,387,154,542,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006600.jpg 97,476,459,599,2 314,367,358,478,0 2,547,56,560,1 389,393,490,410,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000702.jpg 224,343,600,588,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010727.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001434.jpg 87,363,155,404,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011175.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000908.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009207.jpg 492,219,651,288,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010470.jpg 269,469,361,573,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005711.jpg 177,508,266,599,2 277,372,339,463,2 365,517,434,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007037.jpg 1,490,668,677,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006885.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012002.jpg 339,349,404,432,0 426,457,524,570,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012686.jpg 397,116,450,263,0 53,285,137,406,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009749.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005802.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011378.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003160.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004798.jpg 261,366,595,560,2 128,388,234,404,1 97,446,228,462,1 15,434,82,461,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000251.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007109.jpg 16,560,304,708,2 511,541,720,698,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008947.jpg 12,554,272,699,0 498,588,582,720,0 396,560,433,672,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002220.jpg 350,361,383,391,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003996.jpg 106,293,425,347,1 393,417,593,589,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005746.jpg 297,214,362,264,2 219,216,270,247,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008149.jpg 286,464,311,489,3 291,431,314,443,3 325,471,356,485,3 86,412,588,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009733.jpg 179,563,288,600,3 48,418,508,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012177.jpg 368,421,420,582,0 202,443,362,476,1 344,380,387,466,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006101.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008471.jpg 188,422,569,654,2 241,482,368,649,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006034.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012970.jpg 339,320,587,587,2 167,375,228,591,0 261,345,356,360,1 325,551,451,580,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007130.jpg 3,581,192,705,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006071.jpg 76,394,215,599,2 285,412,375,566,0 3,492,127,514,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003895.jpg 150,393,294,574,0 324,404,548,431,1 318,456,561,476,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007600.jpg 80,563,111,587,3 150,538,202,567,3 172,484,210,511,3 41,401,393,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009209.jpg 105,407,147,488,0 437,295,569,320,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001597.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009221.jpg 398,443,720,708,2 580,578,718,706,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003611.jpg 73,372,366,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005665.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011797.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005018.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000642.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000801.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008274.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006381.jpg 20,459,562,678,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003767.jpg 171,489,625,714,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001455.jpg 296,450,327,526,0 132,448,188,520,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002320.jpg 330,493,413,600,0 208,522,239,577,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000758.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000439.jpg 16,528,138,591,3 136,457,193,484,3 370,442,408,467,3 225,455,263,480,3 342,410,454,431,3 16,437,307,707,2 354,475,644,636,2 499,545,581,626,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002407.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001923.jpg 210,582,275,626,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001862.jpg 421,494,466,598,0 528,442,600,470,2 470,409,531,458,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005486.jpg 507,463,709,649,2 307,641,400,686,3 442,654,515,684,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001786.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003598.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002737.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010693.jpg 57,401,272,600,2 397,413,592,588,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009352.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003577.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006481.jpg 48,103,260,422,2 250,233,569,268,1 501,286,600,312,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009936.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008363.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005000.jpg 276,349,600,600,2 1,369,220,530,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008337.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008516.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010999.jpg 411,480,430,505,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001417.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000196.jpg 38,441,151,576,2 221,526,323,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006695.jpg 128,446,182,520,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004263.jpg 205,369,589,596,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003340.jpg 117,405,198,445,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001842.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008279.jpg 3,460,408,711,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003644.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012135.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012585.jpg 30,76,598,444,2 40,189,138,425,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003642.jpg 218,526,456,705,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006487.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001580.jpg 88,386,452,474,2 80,472,181,600,2 418,472,600,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009191.jpg 302,481,531,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011705.jpg 377,352,579,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008123.jpg 96,425,600,598,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009247.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006486.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003118.jpg 236,67,600,453,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008551.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011945.jpg 290,413,446,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005305.jpg 304,418,330,465,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003398.jpg 437,545,489,585,3 328,348,416,416,2 347,455,565,578,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000787.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002465.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000424.jpg 68,470,220,600,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005400.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004418.jpg 357,483,468,521,3 1,341,251,600,2 408,353,447,407,3 303,354,467,489,2 282,404,363,427,1 526,475,600,546,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001586.jpg 336,419,440,523,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002745.jpg 474,596,562,632,3 469,575,511,598,3 13,522,546,704,2 519,541,592,638,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000142.jpg 1,502,644,688,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005977.jpg 343,282,595,573,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003538.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003789.jpg 385,427,516,579,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000407.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008461.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004732.jpg 44,635,229,717,3 260,637,406,720,3 210,578,298,619,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001532.jpg 141,461,366,495,1 180,408,234,500,0 115,401,188,453,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011091.jpg 88,461,215,589,2 88,461,215,589,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005954.jpg 322,113,372,199,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000171.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002024.jpg 140,396,279,450,3 166,455,197,520,0 295,372,352,407,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008912.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006056.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011261.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004210.jpg 272,642,484,707,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006220.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004065.jpg 99,569,701,687,3 434,539,505,572,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005510.jpg 236,505,396,665,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003971.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006317.jpg 1,506,90,526,1 118,469,379,499,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012884.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007002.jpg 58,604,173,711,3 112,520,168,584,3 44,484,121,560,3 349,358,426,434,3 232,374,660,711,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000994.jpg 422,487,517,620,2 594,509,695,628,2 499,487,549,519,3 233,482,326,516,3 244,538,336,593,3 365,512,458,546,3 1,539,93,637,3 11,470,148,528,3 100,554,212,609,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001561.jpg 349,543,464,706,2 70,530,315,626,3 110,612,360,707,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001957.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005852.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005651.jpg 415,354,462,404,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002506.jpg 302,429,384,573,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003953.jpg 173,515,695,699,2 457,474,658,689,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000561.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012168.jpg 31,292,349,589,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012330.jpg 372,154,516,499,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008505.jpg 1,223,471,650,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011789.jpg 1,355,503,595,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005001.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002855.jpg 179,316,266,600,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000480.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002021.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001149.jpg 230,534,573,709,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002542.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006712.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000296.jpg 1,120,275,271,2 314,234,491,454,0 306,221,487,264,1 381,169,562,217,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011726.jpg 297,249,344,372,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010279.jpg 294,336,320,375,0 149,509,349,599,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006602.jpg 463,502,548,611,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000297.jpg 58,399,219,426,1 370,426,500,450,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004243.jpg 133,600,446,715,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009023.jpg 317,492,439,534,3 362,464,435,492,3 461,481,500,502,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006658.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005444.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000104.jpg 358,409,445,585,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004122.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010654.jpg 156,467,225,538,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009525.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007194.jpg 277,398,391,600,2 19,491,90,504,1 96,369,182,387,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000808.jpg 250,553,461,631,3 327,487,447,547,3 485,515,537,553,3 328,447,446,467,3 62,634,316,714,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002664.jpg 51,412,149,526,0 217,467,237,517,0 229,492,285,526,0 297,442,325,506,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008795.jpg 92,490,336,521,1 96,383,265,412,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003721.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004660.jpg 175,382,495,597,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006560.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001859.jpg 163,453,199,479,3 249,364,298,393,3 190,568,266,596,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001041.jpg 219,478,253,513,0 249,426,354,526,2 15,421,78,448,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004699.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000064.jpg 81,409,134,425,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009841.jpg 409,439,502,471,3 319,424,401,453,3 357,463,391,487,3 247,497,410,634,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006511.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003850.jpg 461,269,592,333,3 82,201,131,235,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009097.jpg 245,517,319,563,3 224,436,426,481,3 16,454,167,505,3 122,593,262,682,3 265,474,504,602,2 85,575,212,720,0 541,485,664,604,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006273.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002569.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003041.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004501.jpg 242,462,279,514,0 287,411,327,479,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003958.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002686.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002847.jpg 291,379,342,586,0 404,432,580,461,1 392,385,505,397,1 411,400,534,420,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008559.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002145.jpg 248,415,294,526,0 65,431,174,517,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002439.jpg 344,456,363,495,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003580.jpg 121,415,384,500,2 405,450,499,501,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007166.jpg 315,392,497,492,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010236.jpg 1,348,600,450,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009851.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001317.jpg 235,427,264,513,0 105,436,134,487,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005862.jpg 186,452,278,542,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003522.jpg 268,510,360,715,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002057.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006685.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008807.jpg 363,498,440,517,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010913.jpg 122,399,423,443,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008460.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000022.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005466.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006570.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003705.jpg 201,553,236,600,0 324,519,489,598,2 490,542,597,597,2 248,545,323,565,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011123.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003831.jpg 74,527,671,695,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001900.jpg 43,557,141,600,2 119,522,138,551,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006954.jpg 184,13,298,63,3 277,142,640,218,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007353.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012804.jpg 33,316,217,599,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007460.jpg 4,495,222,704,2 54,512,244,711,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000754.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000608.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005067.jpg 92,463,623,658,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009021.jpg 24,383,300,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005181.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003484.jpg 392,508,429,573,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008248.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009604.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008669.jpg 107,462,170,586,0 401,454,553,562,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004928.jpg 248,550,355,628,3 463,511,595,602,2 204,439,418,518,2 1,537,161,621,3 414,496,456,607,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009269.jpg 150,547,679,718,2 530,511,604,566,3 74,537,234,720,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003663.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003119.jpg 424,462,537,575,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003718.jpg 378,415,514,530,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003128.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009817.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001959.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007739.jpg 418,252,452,316,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008113.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001729.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001068.jpg 14,439,123,518,2 364,375,492,390,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000543.jpg 331,415,438,516,0 58,395,214,509,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000707.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003386.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004603.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002063.jpg 215,354,271,468,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003884.jpg 213,397,423,597,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000981.jpg 444,520,523,641,3 347,508,430,657,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002115.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005724.jpg 180,480,232,509,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003061.jpg 462,439,537,518,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005430.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003047.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010191.jpg 275,355,640,538,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001943.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002738.jpg 50,376,210,598,2 277,474,392,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006260.jpg 186,535,549,694,2 338,504,397,689,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002071.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001000.jpg 289,580,504,717,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003460.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008913.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006793.jpg 322,334,600,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002741.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008562.jpg 336,413,372,458,0 372,377,396,397,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003524.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003481.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000119.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003432.jpg 507,495,713,684,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004197.jpg 382,612,513,748,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003488.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009981.jpg 407,134,600,447,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005421.jpg 290,416,315,447,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000927.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004126.jpg 1,429,289,667,2 411,378,450,406,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001461.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006438.jpg 134,432,453,595,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002209.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003003.jpg 294,359,597,587,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002733.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009444.jpg 198,221,222,233,3 310,223,334,235,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003210.jpg 225,405,258,515,0 64,460,133,515,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011733.jpg 455,423,598,600,0 62,359,436,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004247.jpg 40,497,106,538,3 5,423,357,600,2 272,361,356,412,2 381,562,440,600,2 48,367,195,407,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000935.jpg 285,487,695,653,3 10,560,262,683,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000414.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007362.jpg 1,344,600,574,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001962.jpg 7,447,106,466,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001390.jpg 518,427,596,534,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007662.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000350.jpg 248,519,492,706,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007719.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006316.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009036.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001986.jpg 218,429,263,475,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010420.jpg 224,389,257,418,3 3,379,600,596,2 32,338,177,373,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004855.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_013087.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003446.jpg 386,445,551,581,3 589,518,669,586,3 358,360,720,590,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000069.jpg 184,528,258,599,2 225,526,248,592,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011884.jpg 330,326,585,528,2 1,384,273,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008192.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007601.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012294.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003975.jpg 419,523,448,545,3 418,591,464,695,3 398,490,496,702,0 488,511,613,577,2 584,578,720,700,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004143.jpg 318,395,346,419,3 447,524,571,550,1 267,516,419,540,1 423,400,472,451,0 457,459,599,573,0 353,423,416,519,0 299,325,329,386,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008104.jpg 77,361,267,527,2 268,412,552,449,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010680.jpg 6,409,70,517,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005493.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003687.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003937.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006845.jpg 553,292,600,311,1 542,424,600,451,1 526,469,570,509,0 431,95,517,203,0 427,278,544,296,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001950.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000189.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010857.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007702.jpg 126,136,300,157,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000735.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010219.jpg 307,276,476,383,3 545,293,702,388,3 1,234,1024,809,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002553.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005611.jpg 292,545,388,600,3 431,484,541,528,3 537,592,672,683,3 568,544,630,576,3 325,604,407,717,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001014.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007217.jpg 478,434,563,517,0 564,519,640,595,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001810.jpg 298,447,357,536,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000797.jpg 316,438,532,482,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000631.jpg 153,443,187,512,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002571.jpg 231,280,548,393,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002029.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006355.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003741.jpg 272,472,478,665,3 15,455,272,587,3 295,425,416,470,3 421,415,527,469,3 1,651,67,676,3 156,597,223,622,3 61,610,225,701,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002301.jpg 128,425,201,472,3 1,407,213,600,2 229,385,378,430,2 385,413,483,593,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000229.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009926.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001200.jpg 98,389,693,690,2 332,369,383,401,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007855.jpg 47,446,595,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005858.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009764.jpg 100,420,197,467,0 207,437,339,539,2 158,464,238,523,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007272.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011025.jpg 377,447,478,574,0 317,344,382,442,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003970.jpg 525,530,600,555,1 278,562,459,594,1 188,475,299,493,1 154,514,223,529,1 276,477,298,515,0 403,429,470,594,0 369,358,425,425,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008024.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008037.jpg 130,484,192,505,3 360,531,667,706,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007823.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002252.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001898.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001743.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000753.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000871.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001234.jpg 194,462,507,556,3 110,572,452,700,3 328,419,488,456,3 1,491,188,565,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011947.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008631.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004970.jpg 263,541,300,564,3 95,426,124,445,3 53,472,414,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010729.jpg 233,490,286,589,0 321,348,589,374,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_013022.jpg 335,351,558,565,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006749.jpg 3,545,276,712,3 59,551,500,712,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002428.jpg 487,524,720,668,2 343,517,406,674,0 419,456,697,666,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000734.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000791.jpg 362,372,396,569,0 293,566,331,714,0 431,522,561,699,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008441.jpg 355,446,480,543,2 52,547,297,592,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001713.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008004.jpg 163,569,207,591,3 385,465,424,504,3 1,562,275,720,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000411.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005876.jpg 205,549,294,641,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001708.jpg 4,351,409,669,3 253,272,468,357,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004509.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001526.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006423.jpg 180,363,249,465,2 369,375,600,595,2 282,450,300,494,0 307,373,321,403,0 545,558,600,599,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007016.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004155.jpg 1,382,498,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001326.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009841.jpg 66,554,414,590,1 412,550,600,597,1 292,512,452,547,1 203,472,243,564,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012493.jpg 166,501,600,600,2 1,397,309,450,2 101,369,300,387,1 11,324,94,354,1 3,376,54,395,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000941.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000773.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005623.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002677.jpg 52,411,553,598,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008224.jpg 466,555,520,600,3 272,381,600,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000354.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006700.jpg 17,565,53,600,3 138,440,246,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007667.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000987.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006297.jpg 1,417,536,616,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006446.jpg 189,459,563,645,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000815.jpg 254,590,431,720,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003500.jpg 37,428,145,513,0 270,407,303,437,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000539.jpg 301,547,425,571,1 371,493,547,521,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004380.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005160.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001017.jpg 146,560,407,691,2 459,496,720,692,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007149.jpg 369,353,600,586,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001420.jpg 168,387,295,479,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012984.jpg 334,478,384,531,2 218,447,250,516,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001697.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009573.jpg 165,462,248,600,0 205,392,283,422,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001413.jpg 404,493,452,584,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001556.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012871.jpg 399,529,479,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006472.jpg 79,323,133,408,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000502.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008862.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008686.jpg 223,325,597,600,2 52,416,97,456,2 66,474,158,600,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004685.jpg 74,479,244,507,1 276,434,321,502,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000466.jpg 88,352,720,715,2 200,319,311,372,3 293,287,359,329,3 442,301,508,343,3 573,325,701,369,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001482.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007572.jpg 1,421,312,716,3 348,442,447,531,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001114.jpg 437,563,512,627,3 356,463,456,551,3 515,518,645,602,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008084.jpg 562,588,618,711,0 6,562,332,709,2 287,588,322,614,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007748.jpg 199,449,288,600,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012296.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000405.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000138.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002800.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008137.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002595.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002813.jpg 447,226,597,264,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000626.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002306.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004769.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001394.jpg 423,476,600,568,2 219,447,397,527,2 127,504,250,532,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003412.jpg 16,517,562,657,2 69,456,199,510,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001845.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008403.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002012.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003699.jpg 365,591,447,652,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004349.jpg 221,399,242,479,0 291,508,362,522,1 300,526,433,548,1 302,571,439,595,1 276,470,359,498,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011467.jpg 137,395,512,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003978.jpg 480,368,542,392,3 266,497,330,579,3 16,422,368,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000968.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001092.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000374.jpg 132,410,164,462,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001622.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000972.jpg 74,384,118,445,0 104,400,156,478,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008827.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000893.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000271.jpg 298,417,347,511,0 75,458,165,478,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008972.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008171.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003328.jpg 253,398,290,502,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007651.jpg 4,378,405,704,0 22,404,325,503,3 222,465,387,593,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004145.jpg 235,376,549,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007171.jpg 237,161,267,208,0 25,289,139,408,0 473,371,510,429,0 352,343,440,367,1 273,189,456,242,1 198,58,310,153,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008657.jpg 165,310,343,419,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008465.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012197.jpg 229,446,383,516,2 446,504,493,545,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003161.jpg 315,436,452,592,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003927.jpg 392,362,593,489,2 453,499,600,541,1 304,375,399,389,1 97,372,236,394,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002003.jpg 492,87,581,206,0 457,72,478,95,3 336,225,598,462,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002453.jpg 258,446,292,523,0 92,444,169,532,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006371.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006326.jpg 86,483,171,600,2 141,522,230,542,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001495.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000765.jpg 348,395,387,599,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001370.jpg 248,454,361,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001050.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000518.jpg 207,579,248,599,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001502.jpg 296,438,388,592,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007324.jpg 68,370,600,600,2 84,447,126,475,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006771.jpg 22,355,244,576,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012212.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002679.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000808.jpg 264,327,543,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006510.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005098.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001870.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000773.jpg 331,532,472,718,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002647.jpg 421,414,551,533,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006233.jpg 456,454,501,596,0 419,474,455,593,0 10,486,342,708,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003414.jpg 283,390,343,508,0 92,398,228,539,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007752.jpg 114,425,184,512,0 236,346,249,382,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000282.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000657.jpg 181,389,233,489,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003719.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009061.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006527.jpg 425,458,504,504,2 270,431,285,463,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001978.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000298.jpg 4,573,212,719,2 210,483,298,572,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003255.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008220.jpg 338,586,694,721,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005734.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009469.jpg 406,434,445,607,0 4,509,218,644,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000073.jpg 552,85,594,104,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008021.jpg 61,465,374,596,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012165.jpg 409,281,596,339,1 196,338,364,460,2 221,248,352,341,2 201,205,404,285,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010055.jpg 5,338,511,594,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005562.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007971.jpg 509,553,558,575,3 1,472,92,541,2 318,582,343,596,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001610.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002337.jpg 277,459,689,694,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003505.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007846.jpg 527,616,660,707,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011341.jpg 292,382,325,448,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006042.jpg 336,444,377,525,0 228,410,261,455,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006181.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008495.jpg 371,348,600,599,2 417,451,516,490,3 575,440,594,464,3 567,514,597,559,3 185,365,270,382,1 436,292,516,343,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004703.jpg 13,470,558,639,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000311.jpg 356,116,432,315,0 313,156,416,176,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000894.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005862.jpg 410,423,457,489,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000393.jpg 167,481,548,523,1 2,471,164,504,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000554.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003115.jpg 371,441,408,479,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000081.jpg 266,496,315,588,3 94,359,185,438,2 167,384,305,404,1 448,402,588,421,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001738.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007954.jpg 293,283,584,524,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008672.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000244.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001277.jpg 123,447,174,473,3 86,400,251,502,2 293,407,378,504,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000485.jpg 310,429,602,633,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006628.jpg 155,154,246,186,3 11,157,160,322,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012707.jpg 184,484,255,592,0 134,394,164,497,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002700.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010445.jpg 312,297,383,317,1 171,341,227,443,0 373,332,467,419,2 309,251,383,294,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003164.jpg 295,60,327,106,0 85,141,437,179,1 427,330,545,361,1 399,441,567,530,1 33,133,237,240,2 3,198,125,404,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003068.jpg 441,475,475,593,0 221,427,368,454,1 381,426,600,460,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009663.jpg 180,493,720,681,2 340,521,382,549,3 211,508,253,536,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001660.jpg 290,484,344,512,3 285,457,313,472,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003340.jpg 9,521,546,673,2 336,528,371,653,0 15,623,78,690,0 129,654,168,713,0 195,629,234,688,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002730.jpg 345,385,575,532,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005127.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000916.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003330.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011169.jpg 429,400,485,430,3 398,378,446,399,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005021.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006451.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005360.jpg 7,390,584,585,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000293.jpg 232,460,329,495,3 219,408,291,429,3 248,429,297,449,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008433.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004515.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001610.jpg 202,9,593,374,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010739.jpg 714,209,809,262,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008130.jpg 148,333,562,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000567.jpg 242,512,349,526,1 321,469,355,599,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012121.jpg 73,373,305,583,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005699.jpg 424,127,595,356,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009575.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003206.jpg 254,392,278,475,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006575.jpg 104,559,306,592,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006216.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002926.jpg 104,430,290,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009775.jpg 316,555,445,575,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006570.jpg 220,388,330,578,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002762.jpg 338,488,392,592,0 134,486,332,519,1 56,415,171,592,0 63,359,143,377,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005032.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003057.jpg 5,424,411,494,1 412,420,550,458,1 88,340,169,437,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001431.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006258.jpg 313,268,350,299,0 377,330,431,397,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007038.jpg 308,331,349,386,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003034.jpg 234,438,369,530,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009746.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001654.jpg 1,403,183,517,0 217,418,255,507,0 83,473,280,506,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007539.jpg 520,547,657,645,0 509,536,720,653,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009570.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003079.jpg 570,469,636,497,3 618,523,684,551,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006538.jpg 460,515,557,632,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003375.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001031.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002950.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007719.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002786.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001900.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002406.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005860.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002349.jpg 290,469,354,584,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000030.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001703.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001400.jpg 312,390,538,583,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002382.jpg 92,349,185,457,2 4,453,92,593,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001244.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000565.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008167.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004719.jpg 90,623,327,714,2 429,440,493,472,3 216,537,283,574,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001287.jpg 197,478,324,572,0 1,554,192,718,2 252,484,612,624,2 71,428,164,469,3 173,426,240,468,3 332,438,429,480,3 364,483,398,510,3 300,408,380,436,3 288,456,322,483,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001164.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003426.jpg 423,556,536,644,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001943.jpg 299,370,359,442,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003401.jpg 9,562,315,614,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000365.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008599.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000806.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001214.jpg 174,340,582,461,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001969.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002543.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001880.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009852.jpg 396,429,419,470,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006980.jpg 11,341,452,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003545.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007117.jpg 143,357,600,598,2 81,438,166,454,1 55,528,143,587,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002980.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009600.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002281.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011818.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000665.jpg 343,460,381,514,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004075.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003542.jpg 464,617,540,664,3 555,676,607,706,3 293,654,386,702,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000784.jpg 245,391,273,474,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011964.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004392.jpg 465,579,514,614,3 476,631,525,666,3 93,559,166,595,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008036.jpg 1,362,323,600,2 489,414,600,507,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002787.jpg 377,539,445,599,0 464,393,535,505,0 474,492,589,554,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003197.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004905.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004457.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005968.jpg 411,507,460,537,3 162,428,508,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007983.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000197.jpg 8,345,374,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004071.jpg 383,368,702,701,2 218,377,352,712,0 219,414,320,495,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012896.jpg 197,542,225,599,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006895.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008030.jpg 1,332,593,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002874.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002055.jpg 122,188,510,235,1 187,88,445,124,1 469,79,599,99,1 570,181,600,198,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004551.jpg 403,417,600,581,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008083.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010057.jpg 221,409,296,491,2 341,369,500,485,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008039.jpg 51,506,594,697,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010216.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003163.jpg 290,557,602,669,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005302.jpg 343,550,654,705,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006211.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011833.jpg 488,161,587,257,0 330,259,497,294,1 454,270,600,311,1 45,221,112,241,1 444,172,507,197,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008409.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000825.jpg 326,421,562,514,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002539.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001327.jpg 307,417,376,523,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011218.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006429.jpg 33,487,89,597,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002391.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003854.jpg 365,551,416,659,0 341,456,376,544,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011747.jpg 299,469,330,510,0 337,520,365,564,0 81,409,152,469,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003058.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008661.jpg 210,297,267,412,0 303,249,584,539,0 39,348,133,372,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006392.jpg 405,517,447,575,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009249.jpg 96,327,460,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007303.jpg 385,433,425,516,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006827.jpg 233,457,302,497,3 252,428,286,443,3 442,499,573,600,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007689.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004195.jpg 271,557,315,586,3 200,530,476,600,2 243,408,344,467,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003888.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000373.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002343.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003869.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004025.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002412.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009195.jpg 229,370,289,391,3 82,391,365,598,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004096.jpg 478,427,582,498,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003454.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009601.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004116.jpg 297,411,600,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009530.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006669.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001786.jpg 414,534,569,670,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008967.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001247.jpg 1,616,151,714,3 161,564,288,680,3 129,509,471,648,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003471.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012327.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008355.jpg 454,656,483,720,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003915.jpg 4,486,595,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001620.jpg 273,409,370,585,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002324.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005246.jpg 194,514,242,583,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002594.jpg 101,417,199,519,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001843.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000666.jpg 288,408,353,437,3 423,381,572,440,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000779.jpg 464,250,556,348,0 491,364,598,596,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000468.jpg 235,512,586,558,1 218,397,364,427,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_013059.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005416.jpg 1,346,200,424,2 22,435,120,565,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004639.jpg 573,500,687,628,3 525,433,606,489,3 425,408,507,457,3 259,447,433,540,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004052.jpg 188,457,219,524,0 235,468,347,524,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004844.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006971.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010856.jpg 460,450,540,493,2 289,465,311,600,0 279,394,296,436,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008451.jpg 287,492,366,523,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003995.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004390.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004963.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006667.jpg 238,501,292,598,0 287,555,380,572,1 363,539,457,596,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006700.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012770.jpg 49,379,560,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000855.jpg 300,538,431,616,3 441,528,537,609,3 40,551,294,709,3 143,421,381,499,3 386,478,487,518,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005107.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001442.jpg 71,209,348,235,1 266,137,484,163,1 178,129,303,155,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003189.jpg 281,408,591,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005601.jpg 547,186,600,245,0 556,218,596,233,1 90,169,313,450,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000437.jpg 38,406,296,438,1 490,333,504,359,0 470,293,492,317,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005993.jpg 132,335,419,517,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001374.jpg 443,394,598,520,2 14,512,436,569,1 303,477,410,508,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003931.jpg 267,413,315,473,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000991.jpg 405,501,539,534,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011051.jpg 31,234,297,592,2 368,259,515,582,2 264,397,368,422,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001680.jpg 1,488,576,676,2 90,497,189,534,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011403.jpg 383,349,591,437,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010846.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002297.jpg 10,483,299,656,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007126.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002369.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004043.jpg 2,551,135,647,0 361,382,426,400,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001497.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002627.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006312.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005555.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005180.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001110.jpg 112,250,432,267,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009455.jpg 214,560,302,668,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007144.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007864.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005898.jpg 22,440,111,534,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003545.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007821.jpg 38,245,102,309,0 311,111,576,407,2 494,440,536,481,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005559.jpg 451,587,501,620,3 392,518,720,672,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006126.jpg 119,462,326,596,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005534.jpg 318,545,362,585,3 301,410,600,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006198.jpg 257,498,398,541,1 247,400,347,412,1 236,357,316,368,1 434,455,588,597,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010625.jpg 249,381,490,596,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012513.jpg 238,382,588,595,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005294.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008947.jpg 321,225,398,244,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009531.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003543.jpg 243,398,277,505,0 54,478,110,520,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006454.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003857.jpg 94,576,190,646,3 192,542,238,573,3 261,483,306,512,3 333,485,366,508,3 268,526,366,625,3 13,590,106,714,0 182,519,378,645,2 13,586,193,714,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001221.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003376.jpg 416,432,476,451,3 281,518,568,612,2 257,455,345,601,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005578.jpg 170,456,536,637,2 231,540,333,626,3 274,491,333,526,3 343,492,373,518,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002806.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010011.jpg 44,333,600,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003478.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007638.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007866.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000253.jpg 235,424,390,530,2 59,411,224,505,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007301.jpg 253,356,498,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000467.jpg 333,514,684,680,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002581.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006053.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009120.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004375.jpg 299,358,600,600,2 1,400,194,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007495.jpg 381,466,451,515,0 389,422,440,440,1 380,465,451,515,1 320,388,543,431,1 562,464,600,484,1 398,509,600,540,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002637.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001030.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001647.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003742.jpg 455,692,508,719,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000486.jpg 231,568,397,716,2 373,504,407,519,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010546.jpg 240,519,327,590,3 240,427,275,446,3 314,514,412,600,2 56,484,137,551,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002794.jpg 50,352,526,594,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010510.jpg 328,361,366,386,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005773.jpg 196,441,300,593,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005849.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004266.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005259.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005323.jpg 48,415,594,595,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000519.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001861.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005131.jpg 259,334,591,600,2 1,330,261,585,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001827.jpg 123,406,353,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012393.jpg 54,408,226,587,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004455.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004204.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007473.jpg 217,482,282,506,3 164,390,593,600,2 107,388,159,430,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001051.jpg 119,521,269,640,3 273,486,335,531,3 300,429,347,475,3 462,474,504,512,3 406,438,448,476,3 422,505,464,543,3 351,431,401,501,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008327.jpg 328,395,720,691,2 48,495,609,711,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003450.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008266.jpg 1,537,717,685,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001216.jpg 226,426,312,444,1 12,423,164,514,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002162.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006160.jpg 302,299,336,366,2 374,532,437,599,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003452.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004865.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000870.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007717.jpg 507,447,585,531,0 354,487,436,502,1 258,481,314,496,1 314,382,370,397,1 260,565,325,584,1 222,429,241,482,0 227,568,241,598,0 247,484,259,545,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003863.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001278.jpg 441,526,509,629,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001429.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005123.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008515.jpg 358,372,587,591,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003654.jpg 1,321,707,720,2 586,581,669,636,3 139,585,218,669,3 176,526,243,589,3 226,291,320,521,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007271.jpg 385,127,594,315,2 179,59,252,105,2 318,73,421,203,0 263,194,349,215,1 318,73,421,203,2 173,168,240,230,2 241,296,385,330,1 163,330,231,468,0 49,171,151,274,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004293.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004731.jpg 1,445,166,599,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002379.jpg 499,387,697,500,0 183,412,720,706,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000039.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005278.jpg 76,475,223,508,1 290,465,494,501,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002465.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001983.jpg 40,487,420,706,3 218,425,386,480,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005245.jpg 451,539,640,714,3 412,449,497,499,3 501,419,558,474,3 1,439,118,502,3 274,328,359,378,3 6,345,709,708,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002584.jpg 112,322,333,343,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007137.jpg 291,396,313,456,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003653.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001521.jpg 261,381,330,462,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006457.jpg 501,296,551,334,3 476,333,534,400,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002240.jpg 202,321,477,600,2 422,342,450,356,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008964.jpg 528,197,599,232,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009420.jpg 36,452,119,538,0 60,426,119,464,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008170.jpg 272,301,395,374,2 31,346,292,388,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006578.jpg 2,356,600,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005388.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001357.jpg 1,531,673,694,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011839.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010139.jpg 79,348,372,598,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006617.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004373.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002408.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005477.jpg 117,349,201,477,0 428,190,534,223,1 242,106,554,488,2 63,151,282,208,1 2,281,147,318,1 226,102,267,130,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001640.jpg 193,120,565,425,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012232.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007231.jpg 173,393,221,534,0 263,332,323,451,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000529.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002856.jpg 499,415,566,519,0 173,208,254,398,0 202,162,228,219,0 487,337,565,513,0 438,162,585,514,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011943.jpg 446,411,595,594,0 403,365,420,416,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009582.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000782.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001575.jpg 141,481,197,522,3 343,448,375,488,3 102,526,159,591,0 203,481,273,499,1 23,481,141,515,1 388,525,600,572,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009057.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002232.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004956.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005580.jpg 454,450,651,636,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002996.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001125.jpg 323,521,508,641,3 368,436,501,497,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003127.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006766.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001928.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000759.jpg 341,398,528,589,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001866.jpg 577,608,682,681,3 203,508,313,555,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004091.jpg 298,452,458,509,3 196,491,297,531,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000856.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003976.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000835.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000561.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008247.jpg 561,583,614,637,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002559.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006285.jpg 368,391,479,448,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009513.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003444.jpg 516,495,626,592,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005780.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004272.jpg 99,37,588,397,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005341.jpg 16,154,582,452,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007295.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001053.jpg 489,487,577,535,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012103.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007026.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000637.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000683.jpg 338,500,364,632,0 465,452,556,537,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006092.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001889.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003754.jpg 76,513,720,618,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008599.jpg 302,519,391,592,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007663.jpg 407,324,565,358,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005009.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003947.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004619.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006166.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007111.jpg 204,422,593,553,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004940.jpg 374,549,503,589,3 258,554,365,596,3 1,549,247,714,3 573,590,680,632,3 421,502,469,526,3 367,499,415,523,3 372,473,420,497,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002644.jpg 214,525,622,673,2 469,454,629,653,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005201.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003917.jpg 9,365,436,585,2 319,454,344,477,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006103.jpg 260,405,302,430,3 328,417,352,431,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002545.jpg 154,495,177,598,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002508.jpg 500,580,617,718,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009746.jpg 1,493,70,537,2 5,84,570,394,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008639.jpg 20,396,95,476,3 89,350,138,388,3 82,383,199,484,2 288,328,314,363,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004592.jpg 375,539,458,676,0 362,516,404,541,3 332,472,374,497,3 283,512,463,666,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003011.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003658.jpg 385,352,584,573,2 241,351,341,474,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000482.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005210.jpg 195,510,720,688,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011681.jpg 98,393,600,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007196.jpg 278,562,604,673,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007809.jpg 236,541,411,666,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004357.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001687.jpg 361,415,433,445,3 1,495,419,711,2 321,518,361,537,3 326,448,398,478,3 277,590,321,622,3 484,495,622,596,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004884.jpg 187,468,305,595,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005643.jpg 126,157,288,240,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003289.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000838.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005360.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004162.jpg 21,468,579,675,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007333.jpg 318,347,364,398,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003416.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005411.jpg 122,504,315,618,3 451,501,580,610,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008120.jpg 331,360,400,489,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005578.jpg 248,499,372,533,3 371,499,466,543,3 458,513,587,542,1 405,463,590,477,1 395,426,524,442,1 210,411,311,440,2 2,497,242,531,1 221,326,239,340,0 91,351,140,371,1 3,377,77,409,1 364,395,387,420,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000424.jpg 118,369,639,705,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002254.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011754.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004342.jpg 147,574,237,612,3 325,561,406,607,3 76,514,506,677,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003754.jpg 295,338,478,593,2 64,369,205,596,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004569.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002519.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010463.jpg 270,450,365,514,0 140,430,268,450,1 52,559,324,592,1 116,479,170,600,0 198,402,245,443,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004944.jpg 65,588,285,714,3 409,562,629,688,3 478,543,709,671,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007287.jpg 1,363,209,598,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008939.jpg 360,394,593,545,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000864.jpg 198,332,326,350,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010869.jpg 1,416,301,579,2 419,549,600,598,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002592.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004097.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004390.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006535.jpg 153,476,208,498,3 155,502,210,524,3 43,462,571,710,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002119.jpg 560,426,633,496,3 312,319,350,416,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007438.jpg 469,429,591,596,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012504.jpg 90,375,172,428,2 263,420,313,501,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002451.jpg 1,424,343,600,2 176,515,247,566,3 398,471,578,494,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008380.jpg 21,62,300,307,2 401,90,526,374,0 497,253,599,281,1 508,356,600,415,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006659.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003125.jpg 567,546,715,718,2 153,544,308,708,0 311,489,363,538,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004192.jpg 186,388,589,573,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010863.jpg 407,348,599,578,2 20,457,277,492,1 249,484,515,513,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008604.jpg 9,386,80,515,0 203,231,248,317,0 153,219,208,281,0 445,219,598,283,1 356,275,484,465,0 242,183,323,243,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000799.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001031.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008854.jpg 484,350,600,480,0 81,259,185,280,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010033.jpg 251,406,272,437,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003610.jpg 201,547,260,596,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009470.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007165.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001170.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001613.jpg 50,556,96,587,3 40,417,104,448,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002377.jpg 300,363,357,384,3 258,434,385,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005676.jpg 414,97,523,229,0 34,335,591,405,1 576,272,600,306,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007847.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010707.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006716.jpg 258,403,394,595,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000091.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004556.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005336.jpg 309,411,485,505,2 320,507,455,600,2 119,496,264,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002044.jpg 55,367,369,598,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012893.jpg 31,92,160,244,0 24,204,69,259,0 1,196,34,235,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003607.jpg 66,444,421,596,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001160.jpg 72,566,222,688,0 237,523,273,555,0 282,484,318,516,0 21,498,491,680,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006661.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003760.jpg 123,462,602,675,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005405.jpg 25,409,264,595,2 289,559,453,600,1 263,512,407,537,1 263,466,347,488,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003645.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011625.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009257.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003147.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004260.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010874.jpg 81,449,195,581,0 230,434,543,483,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012410.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011014.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008865.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008155.jpg 162,536,229,574,3 123,377,415,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008993.jpg 508,453,600,546,0 244,472,486,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009793.jpg 97,449,709,625,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004291.jpg 89,342,600,594,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006832.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001606.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011096.jpg 408,474,574,596,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008315.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006537.jpg 200,518,720,720,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012624.jpg 486,319,591,450,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011576.jpg 246,351,292,593,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000698.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007651.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008472.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_013046.jpg 98,421,190,481,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002177.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003183.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_013119.jpg 373,524,419,569,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004711.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005062.jpg 467,574,528,600,3 377,540,423,600,3 351,459,600,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005202.jpg 349,495,381,580,0 8,547,360,576,1 372,436,580,463,1 139,431,302,450,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012584.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009421.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004304.jpg 21,526,304,600,2 313,367,591,600,2 132,368,276,458,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007644.jpg 5,475,120,538,3 12,434,125,470,3 174,392,253,427,3 294,344,456,396,3 1,595,180,718,3 359,500,395,558,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007526.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002115.jpg 56,358,292,515,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003162.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005601.jpg 553,465,665,532,3 442,337,711,635,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002765.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004052.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001327.jpg 2,505,27,574,3 1,359,285,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010084.jpg 368,439,589,465,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006085.jpg 451,492,526,600,0 1,410,242,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007154.jpg 296,488,323,600,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005612.jpg 249,411,325,489,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012333.jpg 1,375,513,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001228.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007288.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000794.jpg 176,442,296,518,2 325,441,402,524,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004476.jpg 98,322,136,380,3 1,162,540,540,2 75,234,125,266,3 92,279,126,308,3 134,198,161,217,3 197,80,354,153,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001044.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001311.jpg 283,567,651,695,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010196.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000845.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002632.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002669.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004080.jpg 328,479,584,607,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002319.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001558.jpg 207,693,255,719,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010801.jpg 191,518,357,594,0 359,449,568,600,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012563.jpg 133,413,275,590,2 16,507,111,535,1 51,472,152,490,1 343,516,563,548,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006938.jpg 307,527,349,580,3 241,577,314,696,0 311,462,384,575,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001139.jpg 2,456,74,480,1 369,439,448,530,0 332,377,369,436,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007633.jpg 490,573,543,600,3 325,460,390,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001090.jpg 106,482,321,515,1 11,484,102,514,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000105.jpg 5,497,48,518,3 47,510,83,534,3 93,513,129,537,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012189.jpg 274,362,330,379,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006998.jpg 371,513,412,542,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005285.jpg 24,550,345,681,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004071.jpg 128,318,455,472,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002261.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005794.jpg 248,407,290,600,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007338.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001953.jpg 451,125,600,295,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002139.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002462.jpg 107,461,166,517,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003950.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001445.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009205.jpg 1,549,109,655,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006636.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007041.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001615.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000071.jpg 4,399,600,595,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002710.jpg 97,466,352,703,0 360,486,383,597,0 487,525,566,615,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001052.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000958.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001521.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001220.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002327.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005814.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001765.jpg 326,474,592,696,2 1,569,313,715,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005988.jpg 124,499,454,691,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007399.jpg 377,678,424,714,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006609.jpg 97,505,152,596,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012022.jpg 354,328,476,342,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004441.jpg 219,503,359,669,3 8,445,325,718,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004438.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001952.jpg 245,426,290,435,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002137.jpg 249,662,352,718,3 467,501,498,542,0 4,514,422,720,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012668.jpg 329,335,422,350,1 109,293,328,319,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002986.jpg 63,530,394,566,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009130.jpg 14,494,163,523,1 221,527,387,561,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007555.jpg 11,357,669,546,2 308,442,363,499,3 388,357,443,414,3 286,511,320,531,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003252.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012701.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006619.jpg 76,442,206,592,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001583.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009102.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008215.jpg 68,534,266,709,0 206,517,382,640,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005513.jpg 150,464,212,499,3 1,390,430,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003667.jpg 222,532,276,660,0 381,495,420,645,0 289,499,387,654,2 515,569,720,659,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007630.jpg 384,516,485,570,3 224,474,336,516,3 5,509,151,560,3 344,448,478,482,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002943.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009300.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000921.jpg 122,389,166,449,0 239,430,289,525,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002147.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000339.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005165.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007580.jpg 216,391,451,590,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001053.jpg 108,435,312,533,3 280,496,553,710,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012198.jpg 113,416,328,594,2 356,511,525,551,1 452,568,574,600,1 1,523,70,535,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003279.jpg 6,442,108,520,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010125.jpg 56,368,117,470,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011045.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004655.jpg 6,470,185,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003593.jpg 419,252,540,485,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009898.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007159.jpg 157,322,518,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009398.jpg 109,479,202,563,2 1,420,125,539,2 275,520,513,551,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005902.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001849.jpg 339,457,398,533,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000392.jpg 222,414,294,469,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000274.jpg 152,460,417,495,1 10,448,108,467,1 183,379,236,421,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003793.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005199.jpg 348,49,540,385,2 1,26,329,540,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012055.jpg 326,392,425,496,2 424,356,473,475,0 476,355,592,460,0 490,331,531,365,0 445,527,492,544,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002132.jpg 193,564,318,715,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001653.jpg 298,476,376,538,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001065.jpg 205,348,600,512,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012569.jpg 371,495,476,599,0 255,488,351,597,0 153,482,201,572,0 7,539,87,585,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004876.jpg 1,22,540,531,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001473.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001664.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012262.jpg 396,408,545,600,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001682.jpg 283,460,577,648,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004530.jpg 208,354,308,536,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009814.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008063.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006255.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002643.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008333.jpg 1,353,600,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008704.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000000.jpg 406,475,600,596,2 409,373,598,472,3 394,518,557,554,1 510,454,560,542,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004186.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003669.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004598.jpg 124,333,292,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012962.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003431.jpg 168,350,599,600,2 304,522,360,575,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003971.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009750.jpg 72,424,720,718,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000194.jpg 234,414,254,446,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002654.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009422.jpg 7,426,214,592,2 335,419,525,581,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001848.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006720.jpg 353,358,599,458,0 102,157,244,520,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002008.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003320.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006676.jpg 108,390,588,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001072.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005247.jpg 312,595,406,654,3 145,442,186,472,3 1,454,110,523,3 7,457,556,689,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001290.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009674.jpg 415,408,474,445,0 503,455,536,472,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000363.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002555.jpg 13,436,102,452,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001067.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005107.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009312.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005920.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001076.jpg 370,459,480,618,2 623,567,720,644,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005963.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009834.jpg 387,447,430,598,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001048.jpg 156,383,291,466,2 191,337,283,374,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004958.jpg 2,425,165,531,3 71,388,156,425,3 259,354,314,389,3 380,449,583,508,3 156,455,203,494,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008737.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012000.jpg 182,267,317,421,2 381,316,519,440,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009477.jpg 335,487,392,568,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000559.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007040.jpg 41,439,146,463,1 352,457,434,535,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012949.jpg 282,487,358,600,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011849.jpg 334,143,597,391,2 30,237,274,470,2 301,151,508,300,2 323,387,492,425,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002509.jpg 17,542,342,706,3 447,466,494,540,0 290,519,434,602,2 435,558,548,612,2 517,494,598,577,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003236.jpg 48,465,95,530,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005713.jpg 207,541,257,610,3 376,583,406,691,0 545,537,694,694,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002339.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005209.jpg 330,493,385,600,0 443,434,536,519,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001685.jpg 135,241,169,260,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003528.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001813.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009863.jpg 309,447,356,504,0 2,503,24,538,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007414.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006136.jpg 45,307,569,454,2 337,444,405,577,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008818.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009029.jpg 5,45,271,449,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000939.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005764.jpg 176,364,516,595,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002857.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003009.jpg 145,461,207,598,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000379.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000580.jpg 159,511,482,691,2 315,517,378,689,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009049.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008712.jpg 99,182,278,325,3 333,201,597,346,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000108.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003933.jpg 476,402,600,528,2 530,426,600,485,3 1,410,16,440,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009618.jpg 379,470,450,665,0 267,562,458,691,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007705.jpg 232,536,418,600,2 412,522,446,560,2 365,504,600,531,1 349,455,600,488,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009633.jpg 18,546,293,599,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004679.jpg 285,475,586,595,2 170,379,254,498,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008083.jpg 153,385,215,435,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000971.jpg 194,576,478,698,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000852.jpg 278,442,512,687,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008648.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004308.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010162.jpg 95,550,136,600,3 333,429,490,600,2 328,381,439,409,1 216,408,304,420,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000959.jpg 106,473,220,503,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009093.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000571.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003983.jpg 190,410,359,465,2 407,392,533,414,1 316,374,393,412,2 30,381,220,416,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006086.jpg 570,106,599,142,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010964.jpg 449,438,600,531,2 40,376,375,599,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009442.jpg 220,495,388,600,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000056.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000821.jpg 434,275,500,433,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003439.jpg 145,462,520,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007582.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005530.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001479.jpg 136,355,358,456,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007955.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004973.jpg 179,310,253,599,0 438,412,473,497,0 451,365,595,397,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006464.jpg 351,526,379,695,0 505,616,534,694,0 605,636,668,708,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002647.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008376.jpg 534,556,625,689,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004564.jpg 133,395,600,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011731.jpg 470,236,600,263,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009410.jpg 39,385,560,431,1 161,310,408,345,1 12,406,112,561,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001036.jpg 579,546,599,579,3 376,374,600,595,2 47,401,319,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006603.jpg 161,549,218,600,3 208,492,430,526,3 403,452,482,487,3 257,455,399,485,3 40,489,164,545,3 408,528,480,624,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006469.jpg 559,571,716,645,2 286,458,548,623,2 451,481,497,501,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002821.jpg 237,451,292,516,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001227.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000062.jpg 566,364,818,502,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006232.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012303.jpg 69,388,178,579,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010548.jpg 1,419,334,600,2 336,575,395,600,3 331,501,600,571,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004300.jpg 209,316,223,356,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009507.jpg 263,379,306,394,3 543,449,596,476,3 364,453,512,597,2 476,436,499,449,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011400.jpg 162,350,206,401,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006227.jpg 19,363,591,598,2 457,508,492,527,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008257.jpg 29,460,600,593,2 284,382,308,478,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006993.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001826.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000186.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008422.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005859.jpg 174,411,324,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010533.jpg 297,449,349,494,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009964.jpg 339,465,586,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003680.jpg 353,457,593,598,0 283,355,593,598,2 8,482,153,541,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002542.jpg 314,412,380,583,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001795.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004688.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004289.jpg 56,374,594,596,2 204,462,249,486,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006315.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004682.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000560.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004611.jpg 309,476,560,600,2 276,391,378,410,1 316,497,395,511,1 325,552,520,588,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004269.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001378.jpg 355,437,600,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003266.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001153.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006508.jpg 166,482,313,588,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003327.jpg 359,543,380,574,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004466.jpg 240,157,416,187,1 23,196,133,223,1 155,123,221,224,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002076.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008535.jpg 268,346,562,594,0 448,424,548,489,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009349.jpg 1,503,93,600,2 126,545,300,600,2 219,505,326,558,2 360,484,600,598,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004693.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001344.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007387.jpg 220,551,572,720,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001542.jpg 70,327,252,596,2 204,563,250,600,3 414,425,503,451,3 364,397,400,437,3 81,575,103,600,3 278,375,600,584,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011154.jpg 344,496,598,525,1 247,483,323,506,1 12,494,186,505,1 165,416,245,600,0 146,319,190,415,0 4,402,43,416,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011539.jpg 148,156,308,356,2 448,107,600,414,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000786.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008288.jpg 321,477,383,600,0 372,506,556,535,1 305,437,354,450,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000913.jpg 312,512,364,581,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001347.jpg 1,472,135,514,1 264,479,364,505,1 64,416,164,442,1 1,455,163,475,1 109,392,209,418,1 80,388,221,499,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004625.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000987.jpg 232,453,311,489,3 299,410,600,600,2 1,415,286,600,2 248,329,278,341,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012472.jpg 170,423,258,446,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_013043.jpg 125,98,897,543,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007794.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002654.jpg 4,382,350,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008070.jpg 437,436,585,595,2 494,485,580,585,3 366,460,428,604,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008637.jpg 206,284,299,385,2 189,348,469,520,2 265,223,436,272,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007796.jpg 134,629,242,716,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010102.jpg 428,104,600,491,2 307,183,367,409,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000431.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001065.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006934.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006077.jpg 227,463,631,619,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011751.jpg 347,344,465,466,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002813.jpg 2,425,141,515,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001591.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009735.jpg 162,72,583,435,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007216.jpg 25,420,157,600,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010598.jpg 73,458,399,490,1 165,374,321,392,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002713.jpg 6,378,460,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002163.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011495.jpg 122,357,594,599,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005782.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006503.jpg 393,560,598,600,2 1,388,325,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002879.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003231.jpg 318,412,384,477,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001427.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008846.jpg 41,545,549,714,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011948.jpg 134,506,250,598,2 145,421,252,468,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001706.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003294.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004514.jpg 198,546,234,598,3 17,363,439,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007256.jpg 209,456,603,575,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000547.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004036.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006630.jpg 455,524,497,556,3 231,499,695,695,2 410,475,452,507,3 387,520,429,552,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006282.jpg 389,363,594,537,2 154,434,318,598,2 347,325,398,363,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011584.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008363.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007959.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000463.jpg 9,367,183,596,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002982.jpg 90,471,176,496,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000443.jpg 209,470,291,483,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006758.jpg 252,126,588,286,2 5,141,216,213,2 482,384,514,464,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003376.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007588.jpg 122,420,225,429,1 278,405,467,427,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004984.jpg 337,316,510,499,3 254,282,336,318,3 228,486,310,522,3 316,379,398,415,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008820.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005521.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000619.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005837.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006369.jpg 414,494,592,600,2 112,442,278,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006584.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000401.jpg 103,479,317,506,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004980.jpg 427,377,481,416,3 370,358,424,397,3 291,317,345,356,3 511,337,614,385,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008382.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009265.jpg 293,354,306,471,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011015.jpg 1,358,180,515,2 181,416,596,472,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005330.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009556.jpg 34,345,251,582,2 279,331,591,576,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000383.jpg 427,432,514,546,3 268,440,392,525,2 293,404,321,427,3 240,397,268,420,3 330,376,358,399,3 92,379,191,422,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002418.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002926.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006549.jpg 513,553,646,602,3 307,518,398,567,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012953.jpg 430,480,463,503,3 163,420,600,600,2 56,387,145,412,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005166.jpg 286,414,455,594,2 108,465,196,584,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002212.jpg 31,279,240,570,2 1,368,125,393,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000197.jpg 428,568,555,677,0 516,568,675,679,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000222.jpg 62,470,126,515,0 365,465,415,528,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_013116.jpg 349,341,597,600,2 404,420,443,435,3 227,361,251,394,2 205,396,232,429,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001936.jpg 25,186,251,508,2 405,297,600,542,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008682.jpg 131,569,349,720,2 431,461,471,634,0 73,555,264,687,3 235,414,440,601,3 1,460,251,669,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012603.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007923.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011936.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005546.jpg 12,416,123,443,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000042.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005592.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002975.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001206.jpg 184,418,222,527,0 268,429,289,505,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009225.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003425.jpg 67,516,122,598,2 70,474,97,508,0 241,484,273,600,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003056.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003010.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006039.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002137.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012551.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005334.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006253.jpg 284,490,325,593,0 197,425,363,444,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012271.jpg 269,437,298,561,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003831.jpg 334,484,467,505,1 314,423,431,444,1 539,533,583,579,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000524.jpg 79,399,269,700,0 286,418,476,719,0 68,406,688,707,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009804.jpg 479,392,599,450,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_013065.jpg 418,474,594,600,2 25,492,487,536,1 220,392,394,410,1 338,349,414,433,0 418,401,506,415,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009295.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000840.jpg 304,467,454,556,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012441.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001244.jpg 319,479,641,695,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004453.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001689.jpg 2,378,382,529,3 1,581,414,720,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001590.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009943.jpg 367,383,579,557,0 359,475,496,548,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010408.jpg 172,488,577,539,1 13,561,158,586,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002100.jpg 221,461,706,672,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002986.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000936.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002947.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007513.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004812.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011736.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008848.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002300.jpg 307,400,378,523,0 8,429,152,509,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007225.jpg 160,450,285,588,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005790.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000573.jpg 409,374,596,499,2 270,470,410,492,1 232,441,368,470,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003538.jpg 219,348,504,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_013097.jpg 437,331,491,441,0 110,237,238,396,2 527,201,600,274,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000086.jpg 215,417,275,449,3 334,422,429,523,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001071.jpg 1,365,299,600,2 269,521,453,565,1 251,462,359,486,1 341,419,526,587,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001917.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004615.jpg 76,710,171,790,3 537,296,651,372,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004104.jpg 228,506,363,656,3 132,660,268,720,3 374,477,442,572,3 504,556,562,601,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000926.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012950.jpg 155,297,459,514,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008197.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002222.jpg 326,469,363,497,3 238,405,372,462,3 119,419,156,447,3 202,414,239,442,3 420,479,467,574,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009998.jpg 178,429,555,596,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000084.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002294.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010971.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008934.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001877.jpg 394,430,560,530,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005153.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008999.jpg 476,474,494,603,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001934.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009118.jpg 355,51,590,417,2 245,315,308,429,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000596.jpg 309,417,357,448,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010315.jpg 141,420,230,538,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007194.jpg 505,542,720,689,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003064.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006404.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012838.jpg 289,424,387,487,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003670.jpg 338,270,407,317,3 382,181,468,269,0 421,49,479,187,0 339,334,378,381,3 334,389,368,426,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011988.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002046.jpg 233,132,252,161,0 553,405,600,433,1 348,456,465,496,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004847.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012729.jpg 135,539,263,600,2 267,568,437,590,1 217,484,292,504,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008054.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010183.jpg 3,238,579,514,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007643.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008721.jpg 545,196,733,323,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002520.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007729.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010404.jpg 399,357,533,514,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007583.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001719.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000090.jpg 385,411,483,589,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002144.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001155.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004060.jpg 437,419,551,515,0 168,400,239,594,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000878.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011081.jpg 1,476,63,507,3 63,329,322,433,2 1,471,423,600,2 78,484,123,516,3 41,506,77,537,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003222.jpg 284,514,355,571,3 404,551,454,583,3 340,525,432,567,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006167.jpg 191,452,437,627,2 489,514,605,615,2 68,617,183,686,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008314.jpg 413,486,705,623,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002648.jpg 422,362,548,385,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004678.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002588.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007283.jpg 127,417,534,599,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005540.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002169.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002566.jpg 102,498,490,706,2 269,502,346,706,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002906.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008832.jpg 141,427,366,600,2 422,382,595,600,2 415,356,548,382,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005973.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004187.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002553.jpg 407,454,720,664,2 566,494,720,644,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005043.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007754.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009035.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011949.jpg 1,344,600,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006494.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007276.jpg 367,579,691,701,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006806.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008997.jpg 191,357,284,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000075.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009649.jpg 307,544,447,686,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004225.jpg 117,329,569,583,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002856.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006166.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005414.jpg 298,552,357,600,3 389,417,453,446,3 70,348,563,599,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001034.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012933.jpg 6,390,589,598,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000471.jpg 336,572,531,718,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008234.jpg 256,464,321,595,0 129,510,212,564,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011136.jpg 233,498,287,530,3 38,412,104,465,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006454.jpg 30,451,598,526,1 207,358,240,474,0 312,385,457,399,1 450,528,600,547,1 140,346,432,375,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008502.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001481.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003196.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005931.jpg 12,37,280,346,2 534,172,594,188,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005489.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009835.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000601.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002954.jpg 52,536,238,656,0 360,530,404,558,3 443,462,512,488,3 262,498,566,685,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000929.jpg 411,440,529,528,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009831.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008389.jpg 439,149,504,183,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012968.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006646.jpg 511,571,667,662,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010010.jpg 220,334,322,461,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005893.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011430.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002977.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006804.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009381.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002198.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003122.jpg 607,364,721,493,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004251.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003522.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004522.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008874.jpg 491,263,519,288,3 416,197,466,252,0 245,275,472,301,1 432,240,549,346,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007123.jpg 300,493,359,583,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007053.jpg 582,616,638,660,3 345,513,369,637,0 401,542,439,571,3 341,488,379,517,3 275,560,697,715,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001644.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008819.jpg 511,498,720,589,2 319,461,431,516,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003241.jpg 17,401,554,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001818.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000980.jpg 277,435,443,532,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010968.jpg 172,383,207,485,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004536.jpg 9,354,589,598,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001043.jpg 385,531,411,575,0 309,499,358,544,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009081.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007642.jpg 189,521,720,700,2 260,609,345,662,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010037.jpg 264,362,331,443,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001143.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001733.jpg 60,404,348,466,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003180.jpg 132,352,189,397,3 1,372,446,598,2 527,444,600,500,2 131,399,163,411,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009180.jpg 239,589,720,718,2 414,520,459,553,3 364,543,413,594,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007181.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006311.jpg 371,95,587,279,2 25,86,343,372,2 302,182,373,201,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007152.jpg 144,508,283,649,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006778.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006721.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005393.jpg 358,490,719,669,2 1,534,343,720,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011623.jpg 286,430,331,459,3 532,473,576,515,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004754.jpg 62,360,233,384,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003076.jpg 25,460,80,501,0 164,438,205,507,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006541.jpg 452,231,595,329,3 419,362,704,488,3 644,555,744,631,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002899.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002804.jpg 176,403,440,529,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009818.jpg 413,480,467,611,0 231,490,319,624,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000242.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001747.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012856.jpg 2,439,146,471,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008049.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007882.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003088.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006160.jpg 187,449,631,633,2 489,487,576,579,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008809.jpg 446,518,478,601,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006999.jpg 297,484,433,540,3 489,489,548,517,3 452,448,511,476,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002209.jpg 76,455,123,600,0 116,521,260,544,1 277,408,397,428,1 327,363,452,383,1 526,504,600,524,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006361.jpg 65,288,409,509,2 518,491,600,513,1 405,352,481,378,1 566,411,600,439,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006520.jpg 508,312,585,346,3 567,360,644,394,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002002.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008431.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008237.jpg 266,578,292,623,0 306,507,332,552,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003546.jpg 1,413,124,491,0 416,487,523,505,1 1,482,161,514,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012883.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007649.jpg 2,476,209,570,2 179,460,279,485,1 241,560,316,578,1 503,453,600,518,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003596.jpg 428,405,508,459,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011611.jpg 312,411,334,450,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006659.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011650.jpg 1,394,310,600,2 181,476,241,525,3 177,554,217,583,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008511.jpg 244,455,366,524,0 281,327,312,410,0 251,274,275,335,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007368.jpg 209,497,647,654,2 229,518,307,565,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007230.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003328.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005179.jpg 394,427,438,601,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008547.jpg 13,132,344,525,2 443,159,600,456,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003802.jpg 252,332,296,402,0 115,234,589,455,2 96,348,449,455,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002221.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005930.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008453.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003130.jpg 250,512,459,600,2 275,289,460,423,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002981.jpg 287,418,370,516,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009030.jpg 189,452,357,597,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002438.jpg 263,332,376,425,2 12,519,93,597,3 1,366,245,598,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005989.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_003496.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000250.jpg 17,398,193,513,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004902.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005893.jpg 269,424,325,536,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001026.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001815.jpg 47,501,248,522,1 42,478,243,499,1 251,472,296,513,3 203,430,294,461,1 292,499,383,530,1 288,466,379,497,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004933.jpg 412,160,473,289,0 272,150,453,197,1 471,173,600,203,1 515,437,600,468,1 421,252,600,292,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002378.jpg 64,496,541,701,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002555.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012351.jpg 208,465,236,597,0 199,409,221,465,0 181,374,198,405,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009430.jpg 99,522,382,656,2 189,480,383,536,3 435,452,494,482,3 345,433,374,454,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003260.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004298.jpg 424,510,468,529,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002273.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000626.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001567.jpg 542,481,600,588,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012051.jpg 295,335,333,368,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012567.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000941.jpg 1,431,77,457,1 95,331,221,378,1 413,474,600,521,1 20,298,104,318,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003136.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007022.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005166.jpg 405,547,525,673,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006484.jpg 19,383,187,600,2 452,408,514,446,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002540.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011864.jpg 343,434,527,587,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008321.jpg 250,547,326,580,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009529.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003282.jpg 159,302,445,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007246.jpg 508,253,598,346,0 421,322,596,370,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010842.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003558.jpg 201,508,306,532,1 226,432,284,448,1 329,430,398,446,1 336,492,409,505,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010794.jpg 149,387,303,600,2 1,439,124,509,2 357,422,595,600,2 110,361,142,403,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000555.jpg 162,482,444,599,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002237.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009322.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001964.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001805.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002602.jpg 230,366,553,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001752.jpg 158,472,174,492,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005280.jpg 286,507,377,709,0 361,515,392,544,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008262.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004490.jpg 452,543,600,572,1 338,445,483,465,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007623.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006187.jpg 378,86,592,401,0 358,264,479,283,1 467,212,563,237,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002062.jpg 1,457,268,485,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006182.jpg 33,378,272,600,2 125,551,164,581,3 277,422,375,447,1 419,439,559,464,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003358.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000648.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003366.jpg 419,532,493,573,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000776.jpg 108,459,179,525,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008878.jpg 432,540,720,708,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001661.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000127.jpg 253,355,717,648,2 190,589,550,716,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003478.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002156.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009843.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001476.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005070.jpg 12,59,298,468,2 396,109,599,463,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012432.jpg 170,392,295,600,2 395,435,579,592,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008270.jpg 254,534,283,600,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001993.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009735.jpg 150,391,487,459,3 326,342,570,385,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001112.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007282.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002394.jpg 28,172,141,369,0 333,203,588,479,2 357,109,411,237,2 166,66,245,174,0 161,320,304,344,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001743.jpg 78,315,397,575,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000263.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000869.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004954.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007091.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003417.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_001549.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008283.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007509.jpg 364,531,418,711,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003219.jpg 312,425,351,500,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010672.jpg 15,401,594,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005361.jpg 108,281,510,709,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007817.jpg 148,447,580,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009289.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008850.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008460.jpg 326,418,465,539,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003368.jpg 23,479,391,589,3 554,552,654,679,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001534.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000687.jpg 156,407,375,520,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012944.jpg 18,471,354,502,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012467.jpg 201,413,246,534,0 241,428,396,466,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009768.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_000234.jpg 215,504,255,584,0 526,541,559,584,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005560.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005434.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006906.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007061.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_002752.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002993.jpg 277,435,328,528,0 278,406,299,433,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011735.jpg 553,540,600,598,3 159,357,463,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009914.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008278.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006970.jpg 451,544,511,601,3 537,563,597,620,3 435,477,495,534,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010834.jpg 196,352,314,408,2 244,440,379,565,2 335,488,392,514,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007179.jpg 149,382,250,600,0 198,320,221,362,0 289,341,369,469,0 465,501,529,597,0 381,439,567,465,1 321,370,456,397,1 130,355,194,372,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008813.jpg 487,507,587,592,0 564,592,636,678,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011048.jpg 158,449,243,514,2 239,525,342,596,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000601.jpg 237,446,674,678,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003348.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004603.jpg 209,511,345,559,1 432,434,518,455,1 128,395,252,432,1 99,470,210,490,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000124.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008379.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001134.jpg 266,154,549,288,2 3,328,198,370,1 223,313,452,349,1 225,407,438,455,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001741.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001679.jpg 255,355,554,425,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002825.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008812.jpg 295,570,465,720,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006966.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_012829.jpg 190,537,574,600,2 231,366,360,436,2 228,470,362,507,3 384,460,519,502,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_006829.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003316.jpg 210,380,596,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004238.jpg 387,511,413,614,0 571,608,713,716,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000907.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_009661.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006994.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005806.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003968.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000924.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003143.jpg 402,518,550,541,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009965.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000749.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_004667.jpg 224,334,405,591,2 319,446,368,524,3 435,401,553,509,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003019.jpg 422,405,581,579,0 14,433,197,600,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000602.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002867.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_000585.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006689.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_003644.jpg 181,425,214,483,0 329,523,500,598,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002961.jpg 359,510,400,583,0 409,540,450,613,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003319.jpg 296,571,528,714,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_007744.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_001992.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004436.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007611.jpg 5,587,76,658,3 564,616,696,705,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_002659.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_001763.jpg 155,342,562,584,2 16,385,186,400,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_005514.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_005848.jpg 92,415,506,457,1 529,419,594,437,1 3,423,99,448,1
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_006960.jpg 517,521,623,630,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_002757.jpg 245,507,428,659,3 374,482,437,503,3 642,651,665,675,3 409,476,521,560,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_009672.jpg 358,512,400,541,3 310,544,355,600,2 262,476,403,541,3 401,524,600,557,1 227,477,261,529,2
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003199.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Czech_000505.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_010091.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008483.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_008959.jpg 253,523,297,558,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_003813.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_004233.jpg 361,494,413,610,0
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_007976.jpg
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/Japan_011542.jpg 13,400,507,600,2 459,485,502,534,3
+/notebooks/demo/efficientdet-pytorch/VOCdevkit/VOC2007/JPEGImages/India_008645.jpg
