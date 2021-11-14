@@ -1,0 +1,6 @@
+scipy==1.6.3
+numpy==1.21.2
+matplotlib==3.4.3
+tqdm==4.62.2
+h5py==2.10.0
+torchvision==
