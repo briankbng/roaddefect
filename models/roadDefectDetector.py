@@ -18,7 +18,7 @@ from definitions import MODELS_DIR
 from yolo.yolov5 import YoloV5
 from efficientdet.efficientdet import Efficientdet
 from faster_rcnn.road_defect_faster_rcnn import RoadDefectRCNN
-from ssd.ssd_detector import SSDMobileNetDetector
+#from ssd.ssd_detector import SSDMobileNetDetector
 
 # Imports a simple utility for data and image splitting.
 import faster_rcnn.road_defect_dataCfg as dataCfg
@@ -229,7 +229,7 @@ def Model_SSD(image_file, image_rsize, image_csize):
 		single_label_onehot = []
 
 		# Do image detection for efficientdet.
-		pred_dict2 = ssd.detection(image_file)
+		# pred_dict2 = ssd.detection(image_file)
 		
 		print(">>>> Num of instances detected by SSD : ", pred_dict2['num_instances'])
 
@@ -319,7 +319,7 @@ if __name__ == "__main__":
 	yolo = YoloV5()
 	efficientdet = Efficientdet()
 	faster_rcnn = RoadDefectRCNN(os.getcwd(), 'R_50_FPN_3x', 0.2)
-	ssd = SSDMobileNetDetector()
+	# ssd = SSDMobileNetDetector()
 
 	# Use the image splits information from faster_cnn models
 	# splits_per_dataset = ( "ltest/India", "ltest/Japan", "ltest/Czech")
