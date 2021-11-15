@@ -1,0 +1,34 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Japan_011152.jpg</filename>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D20</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>392</ymin>
+			<xmax>463</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>D20</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>347</ymin>
+			<xmax>232</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>
