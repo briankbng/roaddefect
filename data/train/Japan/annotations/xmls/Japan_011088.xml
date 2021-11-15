@@ -1,0 +1,34 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Japan_011088.jpg</filename>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>527</ymin>
+			<xmax>186</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>D44</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>393</ymin>
+			<xmax>600</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>
